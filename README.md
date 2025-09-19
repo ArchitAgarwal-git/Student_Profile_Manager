@@ -29,6 +29,6 @@ It supports features like **adding, modifying, deleting, searching, listing stud
 - Students.csv # Student records database (auto-created if not present)
 - README.md # Documentation
 
-##📋 Menu Options
+## 📋 Menu Options
 
 <img width="511" height="222" alt="Screenshot 2025-09-19 at 11 02 22 AM" src="https://github.com/user-attachments/assets/9d36ea74-3af9-4e7d-9590-82e9835b435c" />
